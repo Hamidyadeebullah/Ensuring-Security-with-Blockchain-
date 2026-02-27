@@ -1,0 +1,17 @@
+{
+  "course": "System Security",
+  "term": "Fall 2025",
+  "lessons": [
+    {
+      "day": "Sat",
+      "time": "11:00",
+      "room": "A3"
+    },
+    {
+      "day": "Wed",
+      "time": "12:00",
+      "room": "A3"
+    }
+  ],
+  "last_update": 1764328673
+}

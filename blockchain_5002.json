@@ -1,0 +1,12 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1700000000,
+    "payload": "GENESIS",
+    "signature": "None",
+    "public_key": "None",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 11289,
+    "block_hash": "000090c9d52ab09c200aaa4bb4c8f505581cff9a281697de021bdb04c531b50c"
+  }
+]
